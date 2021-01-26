@@ -1,0 +1,31 @@
+.topbar{
+	display:flex;
+	width:100%;
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	font-weight: 700;
+	color:red;
+	box-sizing: border-box;
+	
+}
+.time{
+	margin-left: 50px;
+	font-size: 22px;
+	
+}
+.stylemenu{
+	display: flex;
+	
+	margin-left: 900px;
+}
+.menu{
+	margin-right: 70px;
+	font-size: 22px;
+	color: red;
+}
+.tag{
+	color: red;
+	text-decoration: none;
+}

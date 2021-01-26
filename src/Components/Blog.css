@@ -1,0 +1,28 @@
+body{
+    color: white;
+}
+.main_heading{
+    color:white;
+    margin-top: 100px;
+}
+.para{
+    margin-left: 600px;
+    margin-right: 600px;
+}
+.h1{
+    margin-top: 100px;
+    
+}
+.line{
+    margin-bottom: 70px;
+}
+.seperator{
+    width:100%;
+    margin-top: 100px;
+    border: 3px solid red;
+}
+.blog_seperator{
+    border:1px solid white;
+    width:1000px;
+    margin-top: 30px;
+}

@@ -1,0 +1,28 @@
+.first,.second{
+    margin-left: 550px;
+    width:400px;
+    height:40px;
+    text-align: center;
+    font-weight: 800;
+    margin-top:20px;
+    outline-color:red;
+    
+}
+.form_h1{
+    font-size: 50px;
+}
+.new_seperator{
+    margin-bottom: 100px;
+    width:100%;
+    margin-top:100px;
+ 
+}
+.form_button{
+    margin-left:650px;
+    width:200px;
+    height:40px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    font-size: 16px;
+    outline: none;
+}
